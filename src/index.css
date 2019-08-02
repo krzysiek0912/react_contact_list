@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+img {
+  max-height: 150px;
+}
+.contactForm {
+  text-align: center;
+}
+input,
+button {
+  padding: 10px 25px;
+  text-align: center;
+  margin: 15px;
+}
+.contactsList {
+  display: flex;
+  padding: 0;
+}
+
+.contactItem {
+  margin: 0 auto;
+}
